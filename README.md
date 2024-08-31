@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
-- 🔭 I’m currently working on **React, Next.js, Node.js**
+- 🔭 I’m currently working on **React, Next.js**
 
-- 🌱 I’m currently learning **TypeScript, GraphQL**
+- 🌱 I’m currently learning **TypeScript, Nodejs**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/MehwishAslam07?tab=repositories)
 
