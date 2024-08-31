@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/MehwishAslam07?tab=repositories)
 
-- 💬 Ask me about **MERN Stack, WordPress,Shopify, Web Development**
+- 💬 Ask me about **WordPress,Shopify, Web Development**
 
 - 📫 How to reach me **mehwish2d@gmail.com**
 
